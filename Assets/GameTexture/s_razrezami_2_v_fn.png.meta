@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: ae26edbcf1f7d4546b79fee0bae7a3aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_0
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 4267
+        width: 500
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374702955d5d8e64caedea752e403d24
+      internalID: -1779438244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_1
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 4285
+        width: 565
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d144a86ae460d4995c57926801174a
+      internalID: 2134516574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_2
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 4319
+        width: 513
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f941a668b98c44983f68c81ad2723a
+      internalID: -1585102530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_3
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 4348
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d504f500e1baa604cb03b5f20398e0b9
+      internalID: 1102547627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_4
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 3376
+        width: 1045
+        height: 1329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0706aa88c68c040baf8e833c6a2898
+      internalID: -413343905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_5
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 3475
+        width: 1031
+        height: 1327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab2cf1dd59c33f47a490be3602c59d3
+      internalID: 1052062454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_6
+      rect:
+        serializedVersion: 2
+        x: 5408
+        y: 3445
+        width: 1000
+        height: 1331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60a74154dbf2304eb3fa2d8332639f0
+      internalID: 335860647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_7
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 4317
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875bcbcc0d870b74fadc6df487d33651
+      internalID: 895061027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_8
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 4309
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef455c83d66daa41b3c633039b40438
+      internalID: 1647408071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_9
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 4113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6285c01bdfca1e546aebb8f441596652
+      internalID: 73705481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_10
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 3123
+        width: 597
+        height: 1011
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d9403f0c17a04887525349290b14f
+      internalID: 828946233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3275
+        width: 548
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b96ba6f3bc70a64d81f08e277778ea9
+      internalID: 2134092309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_12
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3089
+        width: 733
+        height: 966
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e9e22bd3c060946bec7760fb2beeb8
+      internalID: 1095493433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_13
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 3896
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce87a17fd7a09d4285ea0f6afd9db4b
+      internalID: 1988322610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_14
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 3768
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f305fb696aa1ec641881b0296e5c676c
+      internalID: -1607662026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_15
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 3598
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92d011dd9d8c041bb926aa73102106
+      internalID: -1166902398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_16
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 3358
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b302add92992ac144bb78b9cb6699262
+      internalID: -1427779854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_17
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 1506
+        width: 709
+        height: 1953
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312de1eea55cc7b43881c4bca2ac9543
+      internalID: 676415464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_18
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 1473
+        width: 667
+        height: 1931
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a1e045ad53ec4896e842a421db51b
+      internalID: 1890101621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3292
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa0e63f7d3f95947a0a57b551df80c6
+      internalID: 679292654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_20
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 2982
+        width: 614
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f87559783d44446ab30dcda500e4c6
+      internalID: 2106204828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_21
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3240
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589e26a4602c76c468552adcb4074404
+      internalID: 230742322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3247
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e9c8a437753545b781b8ed92c4111
+      internalID: 1355896699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3199
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f58c5c29176e4a9b97e97383f0a6e
+      internalID: 1471379616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_24
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 3204
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f5263c9d5f64240b5a218fa211e692
+      internalID: -451932038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_25
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3013
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e46cd1ad1ea2943a460a9508bd2139
+      internalID: 1340581395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2201
+        width: 775
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b889782b5275842ba5aa195a043fbf
+      internalID: -1598679798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_27
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 2343
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3815eafaaff924386348dd1943679b
+      internalID: 2002893686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_28
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2253
+        width: 815
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209099e7196cdc45860209edf705357
+      internalID: -1411355922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1102
+        width: 887
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a525f82ff8834d4c9fcb47a1a26fa8f
+      internalID: -1669186270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_30
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1208
+        width: 738
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cc6d08304e0404a89ffc237e779243
+      internalID: -1643169338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_31
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 1499
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694f4fa192a401e46a2e28a5ee7e712f
+      internalID: -1702043673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_32
+      rect:
+        serializedVersion: 2
+        x: 4435
+        y: 1394
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df30bca864f9cc346a9bf4a71a84b841
+      internalID: -625470192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_33
+      rect:
+        serializedVersion: 2
+        x: 6176
+        y: 1374
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5167d321f28da46963101c4b560850
+      internalID: -973817735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_34
+      rect:
+        serializedVersion: 2
+        x: 5685
+        y: 1367
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1064e922d0eadb41be7f401148a9889
+      internalID: -1376895239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_35
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 307
+        width: 863
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266d6c6fa965cfd4ebf7b7c83ffb7a5a
+      internalID: 1467374133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s_razrezami_2_v_fn_36
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 307
+        width: 709
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a586d5b3b2b95054cadc07c29a65b3ac
+      internalID: 1964234396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      s_razrezami_2_v_fn_13: 1988322610
+      s_razrezami_2_v_fn_14: -1607662026
+      s_razrezami_2_v_fn_32: -625470192
+      s_razrezami_2_v_fn_8: 1647408071
+      s_razrezami_2_v_fn_0: -1779438244
+      s_razrezami_2_v_fn_33: -973817735
+      s_razrezami_2_v_fn_28: -1411355922
+      s_razrezami_2_v_fn_34: -1376895239
+      s_razrezami_2_v_fn_36: 1964234396
+      s_razrezami_2_v_fn_10: 828946233
+      s_razrezami_2_v_fn_27: 2002893686
+      s_razrezami_2_v_fn_1: 2134516574
+      s_razrezami_2_v_fn_29: -1669186270
+      s_razrezami_2_v_fn_2: -1585102530
+      s_razrezami_2_v_fn_21: 230742322
+      s_razrezami_2_v_fn_35: 1467374133
+      s_razrezami_2_v_fn_18: 1890101621
+      s_razrezami_2_v_fn_26: -1598679798
+      s_razrezami_2_v_fn_7: 895061027
+      s_razrezami_2_v_fn_11: 2134092309
+      s_razrezami_2_v_fn_12: 1095493433
+      s_razrezami_2_v_fn_15: -1166902398
+      s_razrezami_2_v_fn_25: 1340581395
+      s_razrezami_2_v_fn_6: 335860647
+      s_razrezami_2_v_fn_9: 73705481
+      s_razrezami_2_v_fn_31: -1702043673
+      s_razrezami_2_v_fn_30: -1643169338
+      s_razrezami_2_v_fn_23: 1471379616
+      s_razrezami_2_v_fn_19: 679292654
+      s_razrezami_2_v_fn_20: 2106204828
+      s_razrezami_2_v_fn_22: 1355896699
+      s_razrezami_2_v_fn_3: 1102547627
+      s_razrezami_2_v_fn_5: 1052062454
+      s_razrezami_2_v_fn_24: -451932038
+      s_razrezami_2_v_fn_16: -1427779854
+      s_razrezami_2_v_fn_4: -413343905
+      s_razrezami_2_v_fn_17: 676415464
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
