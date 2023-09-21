@@ -1,2 +1,2 @@
 # game_for_nsuada
-Game codes
+This is files for university project game.
